@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/src/main/res/menu/gatt_services.xml"
+    },
+    {
+        "merged": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/src/main/res/menu/main.xml"
+    }
+]

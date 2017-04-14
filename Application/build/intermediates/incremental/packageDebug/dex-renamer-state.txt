@@ -1,0 +1,7 @@
+#Fri Apr 14 16:22:03 ICT 2017
+base.0=/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28dc32e2826f243802c0d395fab84f857cb0d1e6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a3370a69b6e9da55252a3d2237ebc2b16115683e/classes.dex
+base.1=/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a3370a69b6e9da55252a3d2237ebc2b16115683e
+file.0=/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_28dc32e2826f243802c0d395fab84f857cb0d1e6/classes.dex

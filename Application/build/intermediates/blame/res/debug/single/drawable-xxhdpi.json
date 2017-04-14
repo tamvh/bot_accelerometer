@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notify.png",
+        "source": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/src/main/res/drawable-xxhdpi/ic_notify.png"
+    },
+    {
+        "merged": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ball.png",
+        "source": "/media/tamvh/Data/xxx/dienquang/androidstudio/VNGBot/Application/src/main/res/drawable-xxhdpi/ball.png"
+    }
+]
